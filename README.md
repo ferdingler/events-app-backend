@@ -1,2 +1,0 @@
-# dilbert
-### a Sails application
